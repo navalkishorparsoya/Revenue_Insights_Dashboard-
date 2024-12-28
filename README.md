@@ -1,4 +1,4 @@
-# Revenue Insights of AtliQ Hotels | Hospitality domain
+# Revenue Insights Dashboard  | Hospitality domain
 --Using: Power BI And Excel
 
 --With this dashboard, the Revenue team of Atliq Grands was able to gain insights into their revenue trend. This could help in regaining their revenue and market share by 20% in the next month.
